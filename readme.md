@@ -10,3 +10,8 @@
 
 This approximate circuit is only simulate I-R characteristic of photo-coupler. Frequency characteristic isn't considered.
 
+## Licenses
+Creative Commons, CC-BY license
+https://creativecommons.org/licenses/by/4.0/
+
+
